@@ -69,13 +69,14 @@
 ## 👤 作者信息
 正式版本更新与配套教程请关注：  
 [NPU-WishYu](https://space.bilibili.com/1153991570)  
-bilibili主页请看合集:  [ CATIA机翼参数化建模插件 ]
+bilibili主页请看合集:   
+[ CATIA机翼参数化建模插件 ](https://www.bilibili.com/video/BV1PwTC6jEcM?vd_source=c1a48d8dccb50965d9c2f45c3244d86c)
 
 ## 📄 免责声明
 本工具仅用于航空航天学科学习、研究与方案设计参考，不对生成模型的工程准确性、力学性能做任何担保。请勿直接用于实际工程生产与试飞场景。
 
 ## ©️ 许可
-MIT License
+MIT License  
 Copyright © 2026 WishYu-aero.   
 All Rights Reserved.
 
